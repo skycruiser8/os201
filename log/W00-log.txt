@@ -1,18 +1,28 @@
 OS201 - Week 0
 
+>>> W00
+Files:
+- c-program-example.c
+- Makefile
+- c-program-example
+
+TO-DO:
+[V] Create OS201 repository in GitHub and make it public
+[V] Create Week 0 log
+[V] Generate QR Code
+[V] Prepare Memo
+[V] Try Demo Week0 in BADAK
+[V] Try Demo Week0 locally (through WSL)
+
+>>> Class Assignment (available at Week 0 Assignment folder)
 Files:
 - INPUT.txt
 - OUTPUT.txt
 - app.py
 
-Assignments:
+TO-DO:
 [V] Parse first non-blank line as the filename
 [V] Apply hash function (SHA-256 maybe) to hide username
 [V] Parse the remainder of the data as shown in the sample OUTPUT file
-
-Notes:
--
--
--
 
 Completion Status: Completed
