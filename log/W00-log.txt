@@ -6,13 +6,13 @@ Files:
 - app.py
 
 Assignments:
-[ ] Parse first non-blank line as the filename
-[ ] Apply hash function (SHA-256 maybe) to hide username
-[ ] Parse the remainder of the data as shown in the sample OUTPUT file
+[V] Parse first non-blank line as the filename
+[V] Apply hash function (SHA-256 maybe) to hide username
+[V] Parse the remainder of the data as shown in the sample OUTPUT file
 
 Notes:
 -
 -
 -
 
-Completion Status:
+Completion Status: Completed
