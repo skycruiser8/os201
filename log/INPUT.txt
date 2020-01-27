@@ -1,0 +1,67 @@
+
+
+
+1606999999 - Cicak Bin Kadal
+
+    Berdasarkan Term
+    Berdasarkan Mata Kuliah
+    Transfer SKS
+
+No. 	Kode MK 	Kurikulum 	Nama MK 	Kelas 	SKS 	Status IRS 	N. Akhir 	N. Huruf 	Detail
+Tahun Ajaran 2016/2017 Term 1
+1. 	CSGE601020 	06.00.12.01-2016 	Dasar-Dasar Pemrograman 1 	DDP 1 - C 	4 	Disetujui 	85.85 	A 	detail
+2. 	UIST601111 	06.00.12.01-2016 	Fisika Dasar 1 	Fisika Dasar 1 - A 	3 	Disetujui 	70.93 	B 	detail
+3. 	UIST601014 	06.00.12.01-2016 	Matematika Dasar 1 	Matdas 1 - B 	3 	Disetujui 	59.01 	C 	detail
+4. 	CSGE601010 	06.00.12.01-2016 	Matematika Diskret 1 	MD 1 - E 	3 	Disetujui 	41.08 	D 	detail
+5. 	UIGE600002 	06.00.12.01-2016 	MPK Terintegrasi B 	MPKT B - Kelas E 	6 	Disetujui 	82.20 	A- 	detail
+Tahun Ajaran 2016/2017 Term 2
+6. 	CSIM601251 	06.00.12.01-2016 	Dasar-Dasar Arsitektur Komputer 	DDAK - C 	4 	Disetujui 	26.22 	E 	detail
+7. 	CSGE601021 	01.00.12.01-2016 	Dasar-dasar Pemrograman 2 	DDP 2 -B 	4 	Disetujui 	83.47 	A- 	detail
+8. 	CSGE601011 	01.00.12.01-2016 	Matematika Diskret 2 	MD 2 - E 	3 	Disetujui 	Kosong 	B+ 	detail
+9. 	UIGE600001 	01.00.12.01-2016 	MPK Terintegrasi A 	MPKT A - Kelas G 	6 	Disetujui 	67.15 	B- 	detail
+10. 	CSIM601280 	06.00.12.01-2016 	Prinsip-Prinsip Sistem Informasi 	PPSI - A 	3 	Disetujui 	63.97 	C+ 	detail
+Tahun Ajaran 2016/2017 Term 3
+11. 	CSGE602012 	01.00.12.01-2016 	Aljabar Linier 	Aljabar Linier - A 	3 	Disetujui 	90.91 	A 	detail
+12. 	CSGE601010 	01.00.12.01-2016 	Matematika Diskret 1 	Matematika Diskret 1 	3 	Disetujui 	Kosong 	B 	detail
+Tahun Ajaran 2017/2018 Term 1
+13. 	CSIM602160 	06.00.12.01-2016 	Administrasi Bisnis 	Adbis - B 	3 	Disetujui 	62.94 	C+ 	detail
+14. 	CSGE601021 	01.00.12.01-2016 	Dasar-dasar Pemrograman 2 	DDP 2 	4 	Disetujui 	58.10 	C 	detail
+15. 	UIGE600010 	06.00.12.01-2016 	MPK Agama Islam 	Agama Islam B 	2 	Disetujui 	84.75 	A- 	detail
+16. 	CSGE602022 	06.00.12.01-2016 	Perancangan & Pemrograman Web 	PPW - E 	3 	Disetujui 	48.62 	D 	detail
+17. 	CSIM602161 	06.00.12.01-2016 	Prinsip-Prinsip Manajemen 	PPM - B 	3 	Disetujui 	64.82 	B- 	detail
+Tahun Ajaran 2017/2018 Term 2
+18. 	CSIM601251 	06.00.12.01-2016 	Dasar-Dasar Arsitektur Komputer 	DDAK - A 	4 	Disetujui 	Kosong 	D 	detail
+19. 	UIGE600003 	06.00.12.01-2016 	MPK Bahasa Inggris 	Bhs Inggris E 	3 	Disetujui 	Kosong 	E 	detail
+20. 	CSGE602022 	06.00.12.01-2016 	Perancangan & Pemrograman Web 	PPW 	3 	Disetujui 	Kosong 	C 	detail
+21. 	CSIM602266 	06.00.12.01-2016 	Sistem Informasi Akuntansi Keuangan 	SIAK - B 	3 	Disetujui 	Kosong 	D 	detail
+22. 	CSIM602262 	06.00.12.01-2016 	Sistem-Sistem Perusahaan 	SSP - B 	3 	Disetujui 	Kosong 	C+ 	detail
+23. 	CSGE602040 	01.00.12.01-2016 	Struktur Data & Algoritma 	SDA 	4 	Disetujui 	Kosong 	B- 	detail
+Tahun Ajaran 2017/2018 Term 3
+24. 	CSGE602013 	06.00.12.01-2016 	Statistika dan Probabilitas 	Statprob 	3 	Disetujui 	Kosong 	D 	detail
+Tahun Ajaran 2018/2019 Term 1
+25. 	CSIM603026 	06.00.12.01-2016 	Arsitektur & Pemrograman Aplikasi Perush. 	APAP-A 	4 	Disetujui 	Kosong 	C+ 	detail
+26. 	CSGE602070 	06.00.12.01-2016 	Basis Data 	Basis Data 	4 	Disetujui 	Kosong 	D 	detail
+27. 	CSIM601251 	07.00.12.01-2016 	Dasar-Dasar Arsitektur Komputer 	Ekst : DDAK 	4 	Disetujui 	Kosong 	B- 	detail
+28. 	CSIM603124 	06.00.12.01-2016 	Sistem Interaksi 	Sister-B 	3 	Disetujui 	Kosong 	A- 	detail
+Tahun Ajaran 2018/2019 Term 2
+29. 	CSGE602070 	01.00.12.01-2016 	Basis Data 	Basis Data - D 	4 	Disetujui 	Kosong 	C+ 	detail
+30. 	CSIM603291 	06.00.12.01-2016 	Komunikasi Bisnis dan Teknis 	Kombistek - A 	3 	Disetujui 	Kosong 	B 	detail
+31. 	CSIE604180 	06.00.12.01-2016 	Manajemen Pengetahuan 	KM - A 	3 	Disetujui 	Kosong 	C+ 	detail
+32. 	CSGE603291 	06.00.12.01-2016 	Metodologi Penelitian & Penulisan Ilmiah 	MPPI - A 	3 	Disetujui 	Kosong 	B+ 	detail
+33. 	CSGE602055 	01.00.12.01-2016 	Sistem Operasi 	Sistem Operasi - A 	4 	Disetujui 	Kosong 	C 	detail
+Tahun Ajaran 2019/2020 Term 1
+34. 	CSIM603183 	06.00.12.01-2016 	Analisis dan Perancangan Sistem Informasi 	Anaperancis-B 	3 	Disetujui 	Kosong 	C 	detail
+35. 	CSIE604160 	06.00.12.01-2016 	E-Dagang 	E-Dagang - A 	3 	Disetujui 	Kosong 	B- 	detail
+36. 	CSIM603154 	06.00.12.01-2016 	Jaringan Komunikasi Data 	JarKomDat-A 	3 	Disetujui 	Kosong 	C 	detail
+37. 	CSGE604098 	06.00.12.01-2016 	Kerja Praktik 	Kerja Praktik - B 	3 	Disetujui 	Kosong 	A 	detail
+38. 	CSIM603189 	06.00.12.01-2016 	Manajemen Proyek TI 	ManPro TI-A 	3 	Disetujui 	Kosong 	C+ 	detail
+39. 	CSIE604161 	06.00.12.01-2016 	Sistem Informasi Kesehatan 	e-Health 	3 	Disetujui 	Kosong 	B 	detail
+40. 	CSGE602013 	06.00.12.01-2016 	Statistika dan Probabilitas 	Statprob 	3 	Disetujui 	Kosong 	C 	detail
+
+
+DODOL
+
+DODOL
+
+DODOL
+

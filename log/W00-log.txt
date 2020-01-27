@@ -1,0 +1,18 @@
+OS201 - Week 0
+
+Files:
+- INPUT.txt
+- OUTPUT.txt
+- app.py
+
+Assignments:
+[ ] Parse first non-blank line as the filename
+[ ] Apply hash function (SHA-256 maybe) to hide username
+[ ] Parse the remainder of the data as shown in the sample OUTPUT file
+
+Notes:
+-
+-
+-
+
+Completion Status:
