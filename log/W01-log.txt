@@ -1,0 +1,48 @@
+OS201 - Week 1
+
+>>> W01
+Files:
+000-READ-THIS-FIRST.txt
+a01-READ-ME
+a02-sort-n-prepare
+a03-command-lines-demo
+a04-does-it-exist
+a05-finding-EXIST
+a06-loop
+a07-tester
+a08-append-a-file
+a09-add-numbers
+a10-mysha1
+a11-banding
+a12-fixfs
+a13-last
+a14-absen
+a15-uts171
+a16-uts181
+a17-uts182
+a18-uts191
+a19-uts192
+a20-problem201
+
+TO-DO:
+[V] Try A01
+[V] Try A02
+[V] Try A03
+[V] Try A04
+[V] Try A05
+[ ] Try A06
+[ ] Try A07
+[ ] Try A08
+[ ] Try A09
+[ ] Try A10
+[ ] Try A11
+[ ] Try A12
+[ ] Try A13
+[ ] Try A14
+[ ] Try A15
+[ ] Try A16
+[ ] Try A17
+[ ] Try A18
+[ ] Try A19
+[ ] Try A20
+[ ] Learn Bash Scripting
