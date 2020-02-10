@@ -1,0 +1,29 @@
+OS201 - Week 02
+
+>>> W02
+Files:
+000-READ-THIS-FIRST.txt
+00-hallo.c
+01-printf-int.c
+02-printf-etc.c
+03-loop.c
+04-argc-argv.c
+05-envp.c
+06-scan.c
+07-status.c
+08-pointer.c
+09-function.c
+10-uts171.c
+11-uts172.c
+12-uts181.c
+13-uts182.c
+14-uts191.c
+15-uts192.c
+demo.txt
+Makefile
+
+Status: OK
+
+[V] Resolve Permissions (by cp)
+[V] Try running codes
+[ ] Understanding codes
