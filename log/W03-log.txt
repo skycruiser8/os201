@@ -1,0 +1,21 @@
+OS201 - Week 3
+
+>>> W03
+Files:
+* 000-READ-THIS-FIRST.txt (this file)
+* Files
+    01-open-close.c
+    02-file-pointer.c
+    03-fprintf.c
+    04-dprintf.c
+    05-sprintf.c
+    Makefile
+* FUSE
+
+Checkpoints:
+[V] 01-open-close.c
+[V] 02-file-pointer.c
+[V] 03-fprintf.c
+[V] 04-dprintf.c
+[ ] 05-sprintf.c
+[ ] FUSE
