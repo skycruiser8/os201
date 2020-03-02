@@ -1,0 +1,7 @@
+OS201 B 1806141422 skycruiser8 Rafi Muhammad Daffa
+
+[WEEK 05 LOG]
+
+TODO
+[V] Compile and simulate program from Demos
+[ ] Analyze code
