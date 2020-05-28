@@ -1,0 +1,33 @@
+Script started on 2020-05-28 19:11:53+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
+]0;skycruiser8@SkyCruiser01: /mnt/c/Users/ASUS/Documents/LinuxDir/IV-OS/UAS[01;32mskycruiser8@SkyCruiser01[00m:[01;34m/mnt/c/Users/ASUS/Documents/LinuxDir/IV-OS/UAS[00m$ PS1="$ "
+$ exo[K[Kcho $GITH[K[K[KitHubUser
+skycruiser8
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200528-191231-cbc4-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200528-191241-6ca2-UAS/> date
+Thu May 28 19:12:47 +07 2020
+200528-191247-64b8-UAS/> pg [K[K[Kgpg --list-keys
+/home/skycruiser8/.gnupg/pubring.kbx
+------------------------------------
+pub   rsa2048 2020-01-28 [SC] [expires: 2022-01-28]
+      6F7775A353DDC2375214250070D880C95AB2C029
+uid           [ultimate] Rafi Muhammad Daffa <rafi.muhammad81@ui.ac.id>
+sub   rsa2048 2020-01-28 [E] [expires: 2022-01-28]
+
+pub   rsa4096 2019-07-29 [SC] [expires: 2023-07-29]
+      AAC0E6505B7AB8C001BAC13004BCE3360783838E
+uid           [ultimate] Rafi Muhammad Daffa <rafi.daffa@gmail.com>
+sub   rsa4096 2019-07-29 [E] [expires: 2023-07-29]
+
+pub   rsa4096 2020-02-13 [SC] [expires: 2021-02-12]
+      B4507B533F7F22840BD8E93ED0F5DBDD67DF6DDE
+uid           [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   rsa4096 2020-02-13 [E] [expires: 2021-02-12]
+
+200528-191254-656b-UAS/> exit
+exit
+
+Script done on 2020-05-28 19:13:02+07:00 [COMMAND_EXIT_CODE="0"]
