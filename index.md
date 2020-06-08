@@ -54,7 +54,7 @@ One of my reasons to develop this site is related to my interest on knowledge ma
 
 ## Blog Posts
 
-<ol>  {% for post in site.posts %}    <li>      <a href="{{ post.url }}">{{ post.title }}</a>    </li>  {% endfor %} </ol>
+<ol>  {% for post in site.posts %}    <li>      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>    </li>  {% endfor %} </ol>
 
 
 
