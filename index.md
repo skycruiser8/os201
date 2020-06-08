@@ -14,6 +14,8 @@ About the Author
 
 Available Contents
 
+Blog Posts
+
 License
 
 
@@ -47,6 +49,12 @@ One of my reasons to develop this site is related to my interest on knowledge ma
 1. [Operating Systems URL Starter Pack](URLs/)
 2. [Basic GNUPG Usages](https://drive.google.com/open?id=180Ze2bJIG_sSJ_VAsyw2QZOoadg-VLsM)
 3. *Coming Soon* Lecture Notes
+
+
+
+## Blog Posts
+
+<ol>  {% for post in site.posts %}    <li>      <a href="{{ post.url }}">{{ post.title }}</a>    </li>  {% endfor %} </ol>
 
 
 
