@@ -6,9 +6,15 @@ Welcome to the Operating Systems site authored by Rafi Muhammad Daffa ([skycruis
 
 
 
-## Table of Contents
+## Contents
 
-Under development
+Background
+
+About the Author
+
+Available Contents
+
+License
 
 
 
@@ -24,7 +30,32 @@ The author also hope that this site can be used to assist future participants of
 
 
 
+## About the Author
+
+Rafi Muhammad Daffa ([GitHub: skycruiser8](https://github.com/skycruiser8/))
+
+A student who, at the time of this site's initial deployment, is attending the Operating Systems (CSGE602055) course in Faculty of Computer Science, Universitas Indonesia.
+
+I am interested in the topics of Knowledge Management, Software Engineering, and Distance Learning.
+
+One of my reasons to develop this site is related to my interest on knowledge management.
+
+
+
+## Available Contents
+
+1. [Operating Systems URL Starter Pack](URLs/)
+2. [Basic GNUPG Usages](https://drive.google.com/open?id=180Ze2bJIG_sSJ_VAsyw2QZOoadg-VLsM)
+3. *Coming Soon* Lecture Notes
+
+
+
 ## License
 
-![GitHub](https://img.shields.io/github/license/skycruiser8/os201)
+[![Creative Commons Licence](https://camo.githubusercontent.com/e170e276291254896665fa8f612b99fe5b7dd005/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f342e302f38387833312e706e67)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+The contents of this repository is usable / reusable / modifiable under the aforementioned license.
+
+Any suggestion regarding this repository may be aired through the repository's Issue page or through my email ([rafi.daffa@gmail.com](mailto:rafi.daffa@gmail.com)).
