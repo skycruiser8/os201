@@ -152,3 +152,6 @@ tags
 
 # Coc configuration directory
 .vim
+
+# Temp for script
+UAS/temp
