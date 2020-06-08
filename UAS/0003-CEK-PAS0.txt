@@ -1,27 +1,26 @@
-Script started on 2020-06-09 01:58:53+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
+Script started on 2020-06-09 02:08:14+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
 ]0;skycruiser8@SkyCruiser01: /mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[01;32mskycruiser8@SkyCruiser01[00m:[01;34m/mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[00m$ PS1="$ "
 $ echo $GitHubUser
 skycruiser8
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ PS1="\$(eval \$PSTAMP)"
-200609-015915-eb4a-UAS/> ls -F
-[0m[01;32m0000-mypub.txt[0m*   [01;32m0002-mytest.txt.asc[0m*  [01;32m0004-TUGAS-PAS1.txt[0m*      [01;32m9999-PAS0Checker.sh[0m*  [01;32mSHA1SUM.asc[0m*
-[01;32m0001-mytest.txt[0m*  [01;32m0003-CEK-PAS0.txt[0m*    [01;32m0004-TUGAS-PAS1.txt.asc[0m*  [01;32mSHA1SUM[0m*              [34;42mtemp[0m/
-200609-015919-da54-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
-200609-015925-980d-UAS/> sha1sum -c SHA1SUM 
+200609-020834-e367-UAS/> ls -F
+[0m[01;32m0000-mypub.txt[0m*   [01;32m0002-mytest.txt.asc[0m*  [01;32m0004-TUGAS-PAS1.txt[0m*      [01;32m9999-PAS0Checker.sh[0m*  [34;42mtemp[0m/
+[01;32m0001-mytest.txt[0m*  [01;32m0003-CEK-PAS0.txt[0m*    [01;32m0004-TUGAS-PAS1.txt.asc[0m*  [01;32mSHA1SUM[0m*
+200609-020838-8ef2-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+200609-020850-b7c4-UAS/> sha1sum -c SHA1SUM 
 0000-mypub.txt: OK
 0001-mytest.txt: OK
 0002-mytest.txt.asc: OK
-200609-015933-0013-UAS/> gpg -sb -a -u rafi.daffa@gmail.com SHA1SUM.a[K[K
-File 'SHA1SUM.asc' exists. Overwrite? (y/N) y
-200609-015952-b697-UAS/> gpg --veriy[Kfy SHA1SUM.asc
+200609-020854-e8d1-UAS/> gpg -sb -a -u rafi.daffa@gmail.com SHA1SUM
+200609-020913-03e3-UAS/> gpg --verify SHA1SUM.asc
 gpg: assuming signed data in 'SHA1SUM'
-gpg: Signature made Tue Jun  9 01:59:51 2020 +07
+gpg: Signature made Tue Jun  9 02:09:12 2020 +07
 gpg:                using RSA key AAC0E6505B7AB8C001BAC13004BCE3360783838E
 gpg:                issuer "rafi.daffa@gmail.com"
 gpg: Good signature from "Rafi Muhammad Daffa <rafi.daffa@gmail.com>" [ultimate]
-200609-020001-7009-UAS/> exit
+200609-020925-e480-UAS/> ei[Kxit
 exit
 
-Script done on 2020-06-09 02:00:07+07:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2020-06-09 02:09:28+07:00 [COMMAND_EXIT_CODE="0"]
