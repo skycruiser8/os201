@@ -1,0 +1,40 @@
+Script started on 2020-06-08 18:22:45+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
+]0;skycruiser8@SkyCruiser01: /mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[01;32mskycruiser8@SkyCruiser01[00m:[01;34m/mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[00m$ PS1="$ "
+$ echo $GitHubUser
+skycruiser8
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200608-182304-24ea-UAS/> 
+$ PS1="\$(eval \$PSTAMP)"
+200608-182309-201d-UAS/> CEKSAYA=$(./9999-PAS0Checker.sh skycruiser8)
+200608-182316-6d6c-UAS/> CEKSEBELA1=$(./9999-PAS0Checker.sh stefansagala)
+200608-182322-2403-UAS/> CEKSEBELA2=$(./9999-PAS0Checker.sh stephenhandiar)
+200608-182328-dbed-UAS/> echo -e $CEKSAYA | sed "s/^ //g"
+skycruiser8 ZCZCSCRIPTSTART 200528-191153 skycruiser8
+skycruiser8 skycruiser8 200528-191231-cbc4-UAS/ 200528-191231 SEQOK SUMOK cbc41cd5
+skycruiser8 skycruiser8 200528-191241-6ca2-UAS/ 200528-191241 SEQOK SUMOK 6ca2d452
+skycruiser8 skycruiser8 200528-191247-64b8-UAS/ 200528-191247 SEQOK SUMOK 64b80779
+skycruiser8 skycruiser8 200528-191254-656b-UAS/ 200528-191254 SEQOK SUMOK 656bd69d
+skycruiser8 ZCZCSCRIPTSTOP 200528-191302 SEQOK
+
+200608-182332-dc14-UAS/> echo -e $CEKSEBELA1 | sed "s/^ //g"
+skycruiser8 ZCZCSCRIPTSTART 200530-164424 stefansagala
+skycruiser8 stefansagala 200530-164501-9acc-stefan.kenichi/ 200530-164501 SEQOK SUMOK 9accf12f
+skycruiser8 stefansagala 200530-164511-a856-stefan.kenichi/ 200530-164511 SEQOK SUMOK a856e916
+skycruiser8 stefansagala 200530-164524-535b-stefan.kenichi/ 200530-164524 SEQOK SUMOK 535b6aad
+skycruiser8 stefansagala 200530-164533-4386-stefan.kenichi/ 200530-164533 SEQOK SUMOK 4386dddd
+skycruiser8 ZCZCSCRIPTSTOP 200530-164544 SEQOK
+
+200608-182339-eada-UAS/> echo -e $CEKSEBELA2 | sed "s/^ //g"
+skycruiser8 ZCZCSCRIPTSTART 200601-113232 stephenhandiar
+skycruiser8 stephenhandiar 200601-113329-7a26-stephen.handiar/ 200601-113329 SEQOK SUMOK 7a261158
+skycruiser8 stephenhandiar 200601-113340-82ee-stephen.handiar/ 200601-113340 SEQOK SUMOK 82ee089b
+skycruiser8 stephenhandiar 200601-113347-6ca0-stephen.handiar/ 200601-113347 SEQOK SUMOK 6ca0ff98
+skycruiser8 stephenhandiar 200601-113441-b7f5-stephen.handiar/ 200601-113441 SEQOK SUMOK b7f57435
+skycruiser8 ZCZCSCRIPTSTOP 200601-113452 SEQOK
+
+200608-182347-dcf1-UAS/> exit
+exit
+
+Script done on 2020-06-08 18:23:53+07:00 [COMMAND_EXIT_CODE="0"]

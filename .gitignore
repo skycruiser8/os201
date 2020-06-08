@@ -157,4 +157,4 @@ tags
 UAS/temp
 
 # PAS1
-UAS/0004-*
+*.asc
