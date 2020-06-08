@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[OUT-OF-TOPIC] Indonesia's Station Tunes"
 ---
 
