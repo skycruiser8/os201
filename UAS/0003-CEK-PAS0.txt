@@ -1,31 +1,27 @@
-Script started on 2020-06-08 13:42:32+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
-]0;skycruiser8@SkyCruiser01: /mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[01;32mskycruiser8@SkyCruiser01[00m:[01;34m/mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[00m$ PS1="#[K$ "
+Script started on 2020-06-09 01:23:23+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="133" LINES="33"]
+]0;skycruiser8@SkyCruiser01: /mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[01;32mskycruiser8@SkyCruiser01[00m:[01;34m/mnt/c/Users/ASUS/GDrive UI/Academic/D. VCS/Operating Systems/UAS[00m$ PS1="$ "
 $ echo $GitHubUser
 skycruiser8
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ PS1="\$(eval \$PSTAMP)"
-200608-134254-0a99-UAS/> ls -F
- [0m[01;32m0000-mypub.txt[0m*   [01;32m0001-mytest.txt[0m*   [01;32m0002-mytest.txt.asc[0m*   [01;32m0003-CEK-PAS0.txt[0m*  [01;32m';'[0m*
-200608-134259-b50a-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
-200608-134312-c3bd-UAS/> sha1sum -c SHA1SUM 
+200609-012355-59f4-UAS/> ls -F
+[0m[01;32m0000-mypub.txt[0m*   [01;32m0002-mytest.txt.asc[0m*  [01;32m0004-TUGAS-PAS1.txt[0m*      [01;32m9999-PAS0Checker.sh[0m*  [01;32mSHA1SUM.asc[0m*
+[01;32m0001-mytest.txt[0m*  [01;32m0003-CEK-PAS0.txt[0m*    [01;32m0004-TUGAS-PAS1.txt.asc[0m*  [01;32mSHA1SUM[0m*              [34;42mtemp[0m/
+200609-012400-94db-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+200609-012411-15d6-UAS/> sha1sum -c SHA1SUM 
 0000-mypub.txt: OK
 0001-mytest.txt: OK
 0002-mytest.txt.asc: OK
-200608-134316-3528-UAS/> gpg2 -sb -a SHA1SUM-SHA1SUMuSHA1SUM SHA1SUMrSHA1SUMaSHA1SUMfSHA1SUMiSHA1SUM.SHA1SUMdSHA1SUMaSHA1SUMfSHA1SUMfSHA1SUMaSHA1SUM@SHA1SUMgSHA1SUMmSHA1SUMaSHA1SUMiSHA1SUMlSHA1SUM.SHA1SUMcSHA1SUMoSHA1SUM SHA1SUM[1PSHA1SUMmSHA1SUM SHA1SUM
-
-Command 'gpg2' not found, but can be installed with:
-
-sudo apt install gnupg2
-
-200608-134332-ea79-UAS/> gpg -sb -a ra[K[K-u rafi.daffa@gmail.com SHA1SUM
-[?1049h[22;0;0t[1;33r(B[m[4l[?7h[?1h=[39;49m[39;49m[H[2J                                                                                                                                     [2;1H                                                                                                                                     [3;1H                                                                                                                                     [4;1H                                                                                                                                     [5;1H                                                                                                                                     [6;1H                                                                                                                                     [7;1H                                                                                                                                     [8;1H                                                                                                                                     [9;1H                                                                                                                                     [10;1H                                                                                                                                     [11;1H                                                                                                                                     [12;1H                                                                                                                                     [13;1H                                                                                                                                     [14;1H                                                                                                                                     [15;1H                                                                                                                                     [16;1H                                                                                                                                     [17;1H                                                                                                                                     [18;1H                                                                                                                                     [19;1H                                                                                                                                     [20;1H                                                                                                                                     [21;1H                                                                                                                                     [22;1H                                                                                                                                     [23;1H                                                                                                                                     [24;1H                                                                                                                                     [25;1H                                                                                                                                     [26;1H                                                                                                                                     [27;1H                                                                                                                                     [28;1H                                                                                                                                     [29;1H                                                                                                                                     [30;1H                                                                                                                                     [31;1H                                                                                                                                     [32;1H                                                                                                                                     [33;1H                                                                                                                                    [?7l [?7h[H(B[m[12;34H(0[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B(B[m[13;34H(0[0mx(B[0m Please enter the passphrase to unlock the OpenPGP secret key:  (0[0mx(B(B[m[14;34H(0[0mx(B[0m "Rafi Muhammad Daffa <rafi.daffa@gmail.com>"[14;99H(0[0mx(B(B[m[15;34H(0[0mx(B[0m 4096-bit RSA key, ID 04BCE3360783838E,[15;99H(0[0mx(B(B[m[16;34H(0[0mx(B[0m created 2019-07-29.[16;99H(0[0mx(B(B[m[17;34H(0[0mx(B[0m [17;99H(0[0mx(B(B[m[18;34H(0[0mx(B(B[m[18;99H(0[0mx(B(B[m[19;34H(0[0mx(B[0m Passphrase: __________________________________________________ (0[0mx(B(B[m[20;34H(0[0mx(B(B[m[20;99H(0[0mx(B(B[m[21;34H(0[0mx(B(B[m[21;44H(0[0m(B[0m<OK>[21;84H<Cancel>[99G(0[0mx(B(B[m[22;34H(0[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B(B[m[19;48H(0[0m(B(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m[33;1H[?1049l[23;0;0t[?1l>200608-134346-7222-UAS/> gpg --verify SHA1SUM.asc
+200609-012416-f3d5-UAS/> gpg -sb -a -u rafi.daffa@gmail.com SHA1SUM
+File 'SHA1SUM.asc' exists. Overwrite? (y/N) y
+200609-012436-c7d8-UAS/> gpg --verify SHA1SUM.asc
 gpg: assuming signed data in 'SHA1SUM'
-gpg: Signature made Mon Jun  8 13:43:43 2020 +07
+gpg: Signature made Tue Jun  9 01:24:35 2020 +07
 gpg:                using RSA key AAC0E6505B7AB8C001BAC13004BCE3360783838E
 gpg:                issuer "rafi.daffa@gmail.com"
 gpg: Good signature from "Rafi Muhammad Daffa <rafi.daffa@gmail.com>" [ultimate]
-200608-134359-a37d-UAS/> exit
+200609-012449-b458-UAS/> exit
 exit
 
-Script done on 2020-06-08 13:44:02+07:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2020-06-09 01:24:57+07:00 [COMMAND_EXIT_CODE="0"]
